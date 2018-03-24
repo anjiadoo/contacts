@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="lib/Contact.mr.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/asm.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/ehcache-1.2.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/jta.jar"/>
+	<classpathentry kind="lib" path="hibernatelib/mysql_connector_java_5.1.36_bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
